@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tns</groupId>
-	<artifactId>CustomerDetail</artifactId>
+	<artifactId>OrderService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CustomerDetail</name>
-	<description>This project for CustomerDetail</description>
+	<name>OrderService</name>
+	<description>This project for Order Service</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
